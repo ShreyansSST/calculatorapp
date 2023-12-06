@@ -1,0 +1,12 @@
+com.example.calculator.app-core-1.6.0-0 C:\Users\rosha\.gradle\caches\transforms-3\3fdca236016d2d83b9bdc38945bf1b2f\transformed\core-1.6.0\res
+com.example.calculator.app-jetified-window-1.0.0-beta04-1 C:\Users\rosha\.gradle\caches\transforms-3\6057dcbb0e8cd3ac87091d5cfe6e6fe9\transformed\jetified-window-1.0.0-beta04\res
+com.example.calculator.app-jetified-annotation-experimental-1.1.0-2 C:\Users\rosha\.gradle\caches\transforms-3\702d92ac0b3e87dcc16abe67f049722b\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.calculator.app-jetified-window-java-1.0.0-beta04-3 C:\Users\rosha\.gradle\caches\transforms-3\df5ac6c5404978a0f41cb3995bb5bbdf\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.calculator.app-debug-4 D:\mobile\calculator\android\app\src\debug\res
+com.example.calculator.app-main-5 D:\mobile\calculator\android\app\src\main\res
+com.example.calculator.app-pngs-6 D:\mobile\calculator\build\app\generated\res\pngs\debug
+com.example.calculator.app-resValues-7 D:\mobile\calculator\build\app\generated\res\resValues\debug
+com.example.calculator.app-rs-8 D:\mobile\calculator\build\app\generated\res\rs\debug
+com.example.calculator.app-mergeDebugResources-9 D:\mobile\calculator\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.calculator.app-mergeDebugResources-10 D:\mobile\calculator\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.calculator.app-merged_res-11 D:\mobile\calculator\build\app\intermediates\merged_res\debug
